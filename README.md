@@ -13,11 +13,11 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C++  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp; HTML | CSS | JavaScript | React
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,cpp,python,git,node,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,cpp,python,git,nodejs,mongodb,mysql)](https://skillicons.dev)
 
 <br>
 
@@ -31,8 +31,8 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/chetan_data" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/chetan_guduru" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/guduru-chetan-275a0b19b/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:gchetan2000@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://twitter.com/chetan_data" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/chetan_guduru" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/guduru-chetan-275a0b19b/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:gchetan2000@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
