@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **gchetan2000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cWF_muzzbW7Hfqb6ceg6X6jqpcdBJWZI/view?usp=sharing](https://drive.google.com/file/d/1cWF_muzzbW7Hfqb6ceg6X6jqpcdBJWZI/view?usp=sharing)
-
 - ⚡ Fun fact **I am pretty decent at playing Football**
 
 <h3 align="left">Connect with me:</h3>
