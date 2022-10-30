@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DSA, SQL, Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://guduruchetan.netlify.app/](https://linktr.ee/guduruchetan)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/guduruchetan](https://linktr.ee/guduruchetan)
 
 - 💬 Ask me about **React, HTML, CSS, JS**
 
