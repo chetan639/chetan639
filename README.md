@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/guduruchetan](https://linktr.ee/guduruchetan)
 
-- 💬 Ask me about **React, HTML, CSS, JS**
+- 💬 Ask me about **React, HTML, CSS, JS, Node.js**
 
 - 📫 How to reach me **gchetan2000@gmail.com**
 
